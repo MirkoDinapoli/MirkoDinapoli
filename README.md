@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm Mirko Dinapoli, from the sunny Sardinia☀️.
+
+### About me
+- 🧑🏻‍🎓Bachelor Degree in Computer Engineering at [PoliTO](https://www.polito.it/)
+- 📖currently attending Master Degree in Artificial Intelligence and Data Analitycs at [PoliTO](https://www.polito.it/)
+
+Here I will share my journey in the world of AI and data analytics. 
 
 <!--
 **MirkoDinapoli/MirkoDinapoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
