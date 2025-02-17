@@ -1,25 +1,12 @@
 ## Hi there 👋
 I'm Mirko Dinapoli, from the sunny Sardinia☀️ to the elegant Turin🏙️.
 
-<img align="right" width="100" height="100" src="/images/Turin.png/100/100">
+<!--
+<img align="right" width="256" height="170" src="https://assets.vogue.com/photos/633eefaf4f85bd18e8ffbc47/master/w_2560%2Cc_limit/GettyImages-690073036.jpg">
+-->
 
 ### About me
 - 🧑🏻‍🎓Bachelor Degree in Computer Engineering at [PoliTO](https://www.polito.it/)
 - 📖currently attending Master Degree in Artificial Intelligence and Data Analitycs at [PoliTO](https://www.polito.it/)
 
 Here I will share my journey in the world of AI and data analytics. 
-
-<!--
-**MirkoDinapoli/MirkoDinapoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
