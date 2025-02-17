@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Mirko Dinapoli, from the sunny Sardinia☀️ to the elegant Turin🏙️.
 
-<img source="./Turin.png" alt="view of the city of Turin" align="right">
+<img align="right" width="100" height="100" src="/images/Turin.png/100/100">
 
 ### About me
 - 🧑🏻‍🎓Bachelor Degree in Computer Engineering at [PoliTO](https://www.polito.it/)
