@@ -9,4 +9,4 @@ I'm Mirko Dinapoli, an Italian student currently in Turin.
 - 🧑🏻‍🎓Bachelor Degree in Computer Engineering at [PoliTO](https://www.polito.it/)
 - 📖currently attending Master Degree in Artificial Intelligence and Data Analytics at [PoliTO](https://www.polito.it/)
 
-Here I will share my journey in the world of AI and data analytics. 
+Here I will share my journey in the world of software development and data analytics.
